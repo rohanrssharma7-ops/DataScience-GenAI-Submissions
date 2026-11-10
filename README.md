@@ -25,6 +25,19 @@ Key areas explored include:
 - Considering how data preparation influences subsequent analysis
 
 **[View Assignment 1 Notebook](./Assignment_1/2_01_data_and_feature_engineering_in_pandas_COMPLETED.ipynb)**
+## Assignment 2 — Data Transformations and Exploratory Data Analysis (EDA)
+
+This assignment covers data cleaning, transformations, handling missing values, currency conversions, grouping operations, and performing Exploratory Data Analysis (EDA) with visualizations using Seaborn and Matplotlib.
+
+Key areas explored include:
+* Concatenating DataFrames across multiple sheets and files
+* Identifying and handling missing values (`NaN`s) and duplicates
+* Currency conversion and data-type/date-time transformations
+* Data aggregation using `groupby()` with means and medians
+* Visualising data distributions and correlations using bar charts, scatter plots, histograms, and pairplots
+
+* **View Notebook 2.04 (Data Transformations):** [`Assignment_2/2_04_Data_Transformations_COMPLETED.ipynb`](Assignment_2/2_04_Data_Transformations_COMPLETED.ipynb)
+* **View Notebook 2.05 (EDA):** [`Assignment_2/2_05_EDA_COMPLETED.ipynb`](Assignment_2/2_05_EDA_COMPLETED.ipynb)
 
 Additional assignments will be documented as the module progresses.
 
