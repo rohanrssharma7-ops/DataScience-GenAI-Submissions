@@ -36,8 +36,7 @@ Key areas explored include:
 * Data aggregation using `groupby()` with means and medians
 * Visualising data distributions and correlations using bar charts, scatter plots, histograms, and pairplots
 
-* **View Notebook 2.04 (Data Transformations):** [`Assignment_2/2_04_Data_Transformations_COMPLETED.ipynb`](Assignment_2/2_04_Data_Transformations_COMPLETED.ipynb)
-* **View Notebook 2.05 (EDA):** [`Assignment_2/2_05_EDA_COMPLETED.ipynb`](Assignment_2/2_05_EDA_COMPLETED.ipynb)
+* **View Assignment 2 Folder:** [`Assignment_2/`](Assignment_2/)
 
 Additional assignments will be documented as the module progresses.
 
