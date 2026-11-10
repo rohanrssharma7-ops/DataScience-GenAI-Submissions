@@ -36,7 +36,8 @@ Key areas explored include:
 * Data aggregation using groupby() with means and medians
 * Visualising data distributions and correlations using bar charts, scatter plots, histograms, and pairplots
 
-[View Assignment 2 Folder](Assignment_2/)
+**[View Assignment 2 Folder](Assignment_2/)**
+
 Additional assignments will be documented as the module progresses.
 
 ## Technical Skills
