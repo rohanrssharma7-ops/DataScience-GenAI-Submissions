@@ -31,13 +31,12 @@ This assignment covers data cleaning, transformations, handling missing values, 
 
 Key areas explored include:
 * Concatenating DataFrames across multiple sheets and files
-* Identifying and handling missing values (`NaN`s) and duplicates
+* Identifying and handling missing values (NaNs) and duplicates
 * Currency conversion and data-type/date-time transformations
-* Data aggregation using `groupby()` with means and medians
+* Data aggregation using groupby() with means and medians
 * Visualising data distributions and correlations using bar charts, scatter plots, histograms, and pairplots
 
-* **View Assignment 2 Folder:** [`Assignment_2/`](Assignment_2/)
-
+[View Assignment 2 Folder](Assignment_2/)
 Additional assignments will be documented as the module progresses.
 
 ## Technical Skills
