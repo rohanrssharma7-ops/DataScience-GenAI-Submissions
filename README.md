@@ -38,6 +38,17 @@ Key areas explored include:
 
 **[View Assignment 2 Notebook](Assignment_2/)**
 
+Assignment 3 — Machine Learning Models: Classification and Regression
+This assignment covers supervised machine learning techniques, exploring the transition from traditional statistical modeling to predictive machine learning through decision trees, logistic regression, and regularized linear regression.
+Key areas explored include:
+- Implementing and tuning Decision Tree classifiers using `RandomizedSearchCV`
+- Optimizing classification models for macro-recall to minimize false negatives in medical datasets
+- Comparing traditional Ordinary Least Squares (OLS) statistical modeling with machine learning workflows
+- Applying $L1$ regularization (Lasso) to manage feature selection, coefficient shrinkage, and model complexity
+- Evaluating model performance using stratified train-test splits, confusion matrices, and $R^2$ metrics
+
+**[View Assignment 3 Notebook](Assignment_3/)**
+
 Additional assignments will be documented as the module progresses.
 
 ## Technical Skills
