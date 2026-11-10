@@ -38,7 +38,8 @@ Key areas explored include:
 
 **[View Assignment 2 Notebook](Assignment_2/)**
 
-Assignment 3 — Machine Learning Models: Classification and Regression
+## Assignment 3 — Machine learning models Classification and Regression
+
 This assignment covers supervised machine learning techniques, exploring the transition from traditional statistical modeling to predictive machine learning through decision trees, logistic regression, and regularized linear regression.
 Key areas explored include:
 - Implementing and tuning Decision Tree classifiers using `RandomizedSearchCV`
